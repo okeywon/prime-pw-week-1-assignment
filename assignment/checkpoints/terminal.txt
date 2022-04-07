@@ -11,7 +11,7 @@ mkdir
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
 nothing would show up. if files exist they should be listed.
 # 6 - What is a quick way to create a new file?
-mkdir
+touch
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.32.0 (Apple Git-132)
 # 8 - Why would you run the command 'git status'?
